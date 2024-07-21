@@ -1,0 +1,9 @@
+{
+"name":"KuKluxKlan",
+  "symbol":"KKK",
+  "description":"SOL KLAN",
+  "image":"https://raw.githubusercontent.com/Deadkeyz/kukluxklan/main/logo.jpg",
+  "websites":[{"label":"Website","url":"http://Klanonsol.live"}],
+  "socials":[{"url":"https://x.com/kukluxklanonsol","type":"twitter"},
+  {"url":"https://t.me/kukluxklanonsol","type":"telegram"}]
+}
